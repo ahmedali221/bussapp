@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978660908795",
+    "project_id": "busapp-ebe8c",
+    "storage_bucket": "busapp-ebe8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978660908795:android:20d75ec3bffdea552b1a5e",
+        "android_client_info": {
+          "package_name": "com.example.bussapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9VcKTMPXva-GNv27wWEX6g7ud8cKHCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
